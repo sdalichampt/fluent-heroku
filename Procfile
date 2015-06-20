@@ -1,0 +1,1 @@
+web: java -DPROD_MODE=true -jar target/fluentheroku.jar
